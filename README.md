@@ -33,9 +33,9 @@ Soy un desarrollador full stack especializado en la creación de soluciones web 
 
 ### 🎓 Experiencia
 
-- Desarrollador Fullstack en **[Cocodrinks](https://cocodrinks.netlify.app):** Proyecto freelance para un e-commerce de bebidas alcohólicas. Se desarrolló el frontend con Astro y se creó un backend personalizado, incluyendo la gestión de autenticación y productos.
-- Desarrollador Frontend en **[librodepases](https://landing.librodepases.com)**: Desarrollo de aplicaciones híbridas en Provincia de Buenos Aires, Argentina, utilizando herramientas como Next.js y Figma.
-- Desarrollador Fullstack en **[Scrum Latam](https://www.scrumlatam.net)**: Trabajé junto a un equipo de 4 personas en el desarrollo del onboarding de nuevos usuarios. Implementamos registro de usuarios, autenticación, roles y permisos, abarcando tanto frontend como backend.
+- **Desarrollador Fullstack en [Cocodrinks](https://cocodrinks.netlify.app):** Proyecto freelance para un e-commerce de bebidas alcohólicas. Se desarrolló el frontend con Astro y se creó un backend personalizado, incluyendo la gestión de autenticación y productos.
+- **Desarrollador Frontend en [Libro de Pases](https://landing.librodepases.com)**: Desarrollo de aplicaciones híbridas en Provincia de Buenos Aires, Argentina, utilizando herramientas como Next.js y Figma.
+- **Desarrollador Fullstack en [Scrum Latam](https://www.scrumlatam.net)**: Trabajé junto a un equipo de 4 personas en el desarrollo del onboarding de nuevos usuarios. Implementamos registro de usuarios, autenticación, roles y permisos, abarcando tanto frontend como backend.
 - Teaching Assistant en Bootcamp, guiando a nuevos desarrolladores en su aprendizaje.
 
 ### 💌 ¿Hablamos?
