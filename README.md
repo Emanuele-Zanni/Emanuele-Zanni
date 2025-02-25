@@ -1,3 +1,6 @@
+🌎 This file is in Spanish.  [Click here to view it in **English**](https://github.com/Emanuele-Zanni/Emanuele-Zanni/blob/main/README_EN.md)
+___
+
 # 👋 ¡Hola! Soy Emanuele
 
 ### Desarrollador Full Stack | Teaching Assistant
