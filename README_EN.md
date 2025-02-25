@@ -1,4 +1,4 @@
-🌎 Este archivo está en Inglés.  [Click aquí para verlo en Español](https://github.com/Emanuele-Zanni/Emanuele-Zanni/blob/main/README.md)
+🌎 Este archivo está en Inglés.  [Click aquí para verlo en Español](https://github.com/Emanuele-Zanni)
 ___
 
 
